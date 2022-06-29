@@ -7,3 +7,4 @@
 
 - HTML
 - CSS
+- Linters: Stylelint, WebHint, LightHouse
