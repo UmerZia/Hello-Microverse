@@ -1,0 +1,4 @@
+#Excludes the test file from the repository
+test.md
+#Exclude node modules
+node_modules
